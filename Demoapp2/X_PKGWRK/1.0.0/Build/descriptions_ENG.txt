@@ -1,0 +1,3 @@
+﻿APPLIC	DirectX Demo Application
+VERSION	Demo App
+COMPANY	LANSA

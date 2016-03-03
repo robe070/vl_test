@@ -1,0 +1,253 @@
+C MSI Build (Step 1) started	2014-05-19 17:00:35.000000000
+C Copy of file lxxbdf.asc was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00002.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00003.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00004.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00005.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00006.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00008.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00009.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00011.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00012.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00014.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00015.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00016.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00018.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00020.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00025.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00026.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00027.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00029.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00030.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00031.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00032.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00033.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00035.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00056.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00059.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00061.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00062.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00063.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00068.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00069.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00070.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00071.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00072.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00073.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00077.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00078.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00079.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00083.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00084.DLL was successful	2014-05-19 17:00:35.000000000
+C Copy of file xdx00085.DLL was successful	2014-05-19 17:00:35.000000000
+C Export of LANSA internal data - Started	2014-05-19 17:00:36.000000000
+ 	2014-05-19 17:00:36.000000000
+-> Object Export Facility Started 19/05/14 17:00:36 (17:00:36)	2014-05-19 17:00:36.000000000
+-> This procedure is being logged into file C:\Users\Stewart\AppData\Local\Temp\export.log (17:00:36)	2014-05-19 17:00:36.000000000
+-> Export of table lxxf60 (to C:\LANSA\TIP\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) in progress. Please wait (17:00:36)	2014-05-19 17:00:36.000000000
+-> Export of table lxxf60 (to C:\LANSA\TIP\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) completed normally (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00001 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00002 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00003 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00004 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00005 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00006 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00007 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00008 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00009 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00010 successfully exported. (17:00:36)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00011 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00012 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00013 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00014 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00015 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00016 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00017 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00018 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00019 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00020 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00021 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00022 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00023 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00024 successfully exported. (17:00:37)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00025 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00026 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00027 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00028 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00029 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00030 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00031 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00032 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00033 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00034 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00035 successfully exported. (17:00:38)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00036 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00037 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00038 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00039 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00040 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00041 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00042 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00043 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00044 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00045 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00046 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00047 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00048 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00049 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00050 successfully exported. (17:00:39)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00051 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00052 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00053 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00054 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00055 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00056 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00057 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00058 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00059 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00060 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00061 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00062 successfully exported. (17:00:40)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00063 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00064 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00065 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00066 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00067 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00068 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00069 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00070 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00071 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00072 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00073 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00074 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00075 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00076 successfully exported. (17:00:41)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00077 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00078 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00079 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00080 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00081 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00082 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00083 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00084 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDX00085 successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXALPHA successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXBOOLEA successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXCAPTIO successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXDATE successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXDESC successfully exported. (17:00:42)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXEMPLOY successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXEXAMPL successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXNUMBER successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXORIGIN successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXSENDER successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of field/component XDXVALUE successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX001 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX002 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX003 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX004 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX005 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX006 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX007 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX008 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX009 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX010 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX011 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX012 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX013 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX014 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX015 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX016 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX017 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX018 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX019 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX020 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX021 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX022 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX023 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX024 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX025 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX026 successfully exported. (17:00:43)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX027 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX028 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX029 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX030 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX031 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX032 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX033 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX034 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX035 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX036 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX037 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX038 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX039 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX040 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX041 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX042 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX043 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX044 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX045 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX046 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX047 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX048 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX049 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX050 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX051 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX052 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX053 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX054 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX055 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX056 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX057 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX058 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX059 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX060 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX061 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX062 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX063 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX064 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX065 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX066 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX067 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX068 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX069 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX070 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX071 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX072 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX073 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX074 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX075 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX076 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX077 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX078 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX079 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX080 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX081 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX082 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX083 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX084 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX085 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX086 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX087 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX088 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX089 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX090 successfully exported. (17:00:44)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX091 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX092 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX093 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX094 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX095 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX096 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX097 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Definition of multilingual variable *MTXTXDX098 successfully exported. (17:00:45)	2014-05-19 17:00:36.000000000
+-> Object Export Facility Ended 19/05/14 17:00:45. 0 fatal errors were detected. 0 warnings were issued. (17:00:45)	2014-05-19 17:00:36.000000000
+ 	2014-05-19 17:00:36.000000000
+C Export of LANSA internal data - Completed Successfully	2014-05-19 17:00:45.000000000
+C Copy of file pkgdesc.txt was successful	2014-05-19 17:00:45.000000000
+C Copy of file appdesc.txt was successful	2014-05-19 17:00:45.000000000
+C Copy of file lxxadf.asc was successful	2014-05-19 17:00:45.000000000
+C MSI Build (Step 1) complete	2014-05-19 17:00:45.000000000
+C MSI Build (Step 2) bypassed	2014-05-19 17:00:45.000000000
+            49 Completion messages	2014-05-19 17:00:45.000000000
+            0 Warning messages	2014-05-19 17:00:45.000000000
+            0 Fatal messages	2014-05-19 17:00:45.000000000

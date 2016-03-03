@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = lansagit@gitsrv:/home/git-repo/vl_demoapp.git
+	branch = trunk
+	commit = 4e3fec002b60d781401f775653fa7713cfd8e304
+	parent = 57aacc9ab22501b33122850a8d62de6284148a56
+	cmdver = 0.3.0
