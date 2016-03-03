@@ -1,0 +1,5 @@
+# Include executables from this directory down
+!*.dll
+!*.exe
+
+

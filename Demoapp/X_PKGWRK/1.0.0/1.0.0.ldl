@@ -1,0 +1,262 @@
+CB	 
+DF	XDX00007  BDirectX Banner
+DF	XDX00010  BImage Globe
+DF	XDX00013  BEmployee 32
+DF	XDX00017  BDepartment 32
+DF	XDX00019  BSection 32
+DF	XDX00021  BFirst 32
+DF	XDX00022  BImage Previous 32
+DF	XDX00023  BNext 32
+DF	XDX00024  BLast 32
+DF	XDX00028  BSettings 32
+DF	XDX00034  BPlay 128
+DF	XDX00036  BDonkey Kong 1
+DF	XDX00037  BDonkey Kong 2
+DF	XDX00038  BDonkey Kong 3
+DF	XDX00039  BDonkey Kong 4
+DF	XDX00040  BMario Galaxy 1
+DF	XDX00041  BMario Galaxy 2
+DF	XDX00042  BMario Galaxy 3
+DF	XDX00043  BMario Galaxy 4
+DF	XDX00044  BMario Party 1
+DF	XDX00045  BMario Party 2
+DF	XDX00046  BMario Party 3
+DF	XDX00047  BMario Party 4
+DF	XDX00048  BMario Smash 1
+DF	XDX00049  BMario Smash 2
+DF	XDX00050  BMario Smash 3
+DF	XDX00051  BMario Smash 4
+DF	XDX00052  BSummer Sport 1
+DF	XDX00053  BSummer Sport 2
+DF	XDX00054  BSummer Sport 3
+DF	XDX00055  BSummer Sport 4
+DF	XDX00057  BLeft Arrow 16
+DF	XDX00058  BRight Arrow 16
+DF	XDX00060  BEmployee 512
+DF	XDX00064  BStop 16
+DF	XDX00065  BPlay 16
+DF	XDX00066  BPause 16
+DF	XDX00067  BPlay 64
+DF	XDX00074  BSample Toolbar Image16
+DF	XDX00075  BSample Toolbar Image 16 (2)
+DF	XDX00076  BPause 64
+DF	XDX00080  BStop 64
+DF	XDX00081  BWaiting 64
+DF	XDX00082  BWaiting 16
+DF	XDXALPHA  NAlpha 256
+DF	XDXBOOLEA NBoolea
+DF	XDXCAPTIO NCaption
+DF	XDXDATE   NDate
+DF	XDXDESC   NDescription
+DF	XDXEMPLOY NEmployeeSort
+DF	XDXEXAMPL NExample Identifier
+DF	XDXNUMBER NNumber
+DF	XDXORIGIN NEvent Origin
+DF	XDXSENDER NEvent Sender
+DF	XDXVALUE  NGeneric Alphanumeric Value
+DF	XDX00002  FDirectX Examples                                                                        NNNNNNNNNNN         N
+DF	XDX00056  FSettings Dialog                                                                         NNNNNNNNNNN         N
+DF	XDX00061  FBase Form                                                                               NNNNNNNNNNN         N
+DF	XDX00068  FDirectX Examples Start Form                                                             NNNNNNNNNNN         N
+DF	XDX00003  RBrushes
+DF	XDX00004  RShared Application Object
+DF	XDX00005  RTree Design
+DF	XDX00006  RTile Control
+DF	XDX00008  RCarousel
+DF	XDX00009  RCarousel Design
+DF	XDX00011  RBanner
+DF	XDX00012  RTileDesign
+DF	XDX00014  RTree
+DF	XDX00015  RPersonnel Tree Design Base Class
+DF	XDX00016  RTree Department Design
+DF	XDX00018  RTree Section Design
+DF	XDX00020  RTree Employee Design
+DF	XDX00025  RTable Layout And Font Rotation
+DF	XDX00026  RBouncing Balls
+DF	XDX00027  RScaling
+DF	XDX00029  RUDC On Demand
+DF	XDX00030  RDynamic Styles
+DF	XDX00031  RBookDesign
+DF	XDX00032  RBook
+DF	XDX00033  RBase Panel
+DF	XDX00035  RScale and Animations
+DF	XDX00059  RHint
+DF	XDX00062  RExamples Tree
+DF	XDX00063  RTaskbar Integration
+DF	XDX00069  RPopup Panels
+DF	XDX00070  RUDC OnDemand Design
+DF	XDX00071  REmployee Details Popup
+DF	XDX00072  RPopup Panel TileDesign
+DF	XDX00073  RPopupPanel Context Menu
+DF	XDX00077  RRouted Events
+DF	XDX00078  RDrag and Drop Panel
+DF	XDX00079  RTree Design
+DF	XDX00083  RReflecting Image
+DF	XDX00084  REmployee Image
+DF	XDX00085  RTouch - Image Viewer
+DF	XDX00001  VDirectX Styles
+EV	X_DOLLAR_SIGN_CHAR  $
+EV	X_HASH_SIGN_CHAR    #
+EV	X_AT_SIGN_CHAR      @
+EV	X_GEN_AT_SIGN_CHAR  @
+IP	                    NO NO                                   Elevated                                NO
+IP	                    NO NO                                   Language
+IP	                    NO NO                                   ProcessName
+IP	                    NO NO                                   FunctionName
+IP	                    NO NO                                   FormName
+IP	                    YESNO                                   PartitionName
+IP	                    NO NO                                   USER
+IP	                    NO NO                                   UpgradeOption                           NO
+IP	                    NO NO                                   InstallPackages                         YES
+IP	                    NO NO                                   UPSI                                    YES
+IP	                    NO NO                                   ASLU
+IP	                    NO NO                                   ASUS
+IP	                    NO NO                                   ASPW                                    *OTHER
+IP	                    NO NO                                   ASCT
+IP	                    NO NO                                   ASST
+IP	                    NO NO                                   UPCF                                    PROMPT
+IP	                    NO NO                                   UPDF                                    PROMPT
+IP	                    NO NO                                   ASTC                                    NO
+IP	                    NO NO                                   DBSetup                                 NO
+IP	                    YESNO                                   DBMSType                                NONE
+IP	                    YESNO                                   DSN
+IP	                    NO NO                                   DBUID
+IP	                    NO NO                                   DBPWD
+IP	                    NO NO                                   DBServer
+IP	                    NO NO                                   DBDBaseName
+IP	                    NO NO                                   UseTrustedConnection                    YES
+IP	                    NO NO                                   DeletePrevTargetDir                     NO
+IP	                    NO NO                                   PrevApplicFolderName
+IP	                    NO NO                                   InstallListener                         NO
+IP	                    NO NO                                   InstallWebAdministrator                 NO
+IP	                    NO NO                                   InstallIISPlugin                        NO
+IP	                    NO NO                                   InstallWebImages                        NO
+IP	                    NO NO                                   InstallJSM                              NO
+IP	                    NO NO                                   InstallVLF                              NO
+IP	                    NO NO                                   PSTY
+IP	                    NO NO                                   PSLU
+IP	                    NO NO                                   PSUS
+IP	                    NO NO                                   PSPW
+IP	                    NO NO                                   PSEA
+IP	                    NO NO                                   PSCC
+IP	                    NO NO                                   PSDB
+IP	                    NO NO                                   PSDL
+IP	                    NO NO                                   PSWM
+IP	                    NO NO                                   PSEP
+IP	                    NO NO                                   PSCT
+IP	                    NO NO                                   PSST
+IP	                    NO NO                                   PSTC                                    NO
+IP	                    NO NO                                   CreateCommsAdminShtcut                  NO
+IP	                    NO NO                                   CreateODBCAdminShtcut                   NO
+IP	                    NO NO                                   DisplayApplicationDialog                NO
+IP	                    NO NO                                   DisplayDBDialog                         NO
+IP	                    NO NO                                   DisplayServerSetupDialog                NO
+IP	                    NO NO                                   DisplayServerSetup2Dialog               NO
+IP	                    NO NO                                   QuietInstall                            NO
+MT	*MTXTXDX001         Visual LANSA
+MT	*MTXTXDX002         DirectX Examples
+MT	*MTXTXDX003         Linear - Top to Bottom White To Red
+MT	*MTXTXDX004         Linear - Right to Dark Gray To Silver
+MT	*MTXTXDX005         Linear - Top Left To Bottom Right White To Black
+MT	*MTXTXDX006         Linear - Top to Bottom White To Purple Reflecting
+MT	*MTXTXDX007         Radial - Centered White To Green
+MT	*MTXTXDX008         Radial - Bottom Right To Top Left White To Blue
+MT	*MTXTXDX009         Radial - Top Right To Bottom Left White To Orange
+MT	*MTXTXDX010         Transparent - Nothing To See But The Background
+MT	*MTXTXDX011         Solid - White 85% Opacity
+MT	*MTXTXDX012         Linear - Top to Bottom Red To Yellow To Blue
+MT	*MTXTXDX013         Visual - Image Of A Different Control
+MT	*MTXTXDX014         Linear - Top Left To Bottom Right White To Transparent
+MT	*MTXTXDX015         Image - Centered Image Watermark 75% Opacity
+MT	*MTXTXDX016         Image - Tiled Image Watermark 50% Opacity
+MT	*MTXTXDX017         Solid - Single Color White
+MT	*MTXTXDX018         Brushes
+MT	*MTXTXDX019         Carousel
+MT	*MTXTXDX020         Tile
+MT	*MTXTXDX021         Tree and Drag & Drop
+MT	*MTXTXDX022         Book
+MT	*MTXTXDX023         Table Layout
+MT	*MTXTXDX024         Popup Panels
+MT	*MTXTXDX025         Bouncing Balls
+MT	*MTXTXDX026         Animations (Part I)
+MT	*MTXTXDX027         Simple Animations
+MT	*MTXTXDX028         Scaling
+MT	*MTXTXDX029         Gradient colors linear or radial, images and other controls
+MT	*MTXTXDX030         User Designed Control with panels organized in an eliptical pattern
+MT	*MTXTXDX031         User Designed Control with panels in a horizontal or vertical grid
+MT	*MTXTXDX032         User Designed Control with panels in a tree structure
+MT	*MTXTXDX033         User Designed Control with panels as pages in a book
+MT	*MTXTXDX034         Grid style layout allowing components to occupy the same space
+MT	*MTXTXDX035         User designed hints, context menus and drag and drop
+MT	*MTXTXDX036         Animations...and what they SHOULDN'T be used for
+MT	*MTXTXDX037         Animations...think splash screens
+MT	*MTXTXDX038         Animations...think Apple taskbar
+MT	*MTXTXDX039         Resizing Controls...Think Document or Image Viewers
+MT	*MTXTXDX040         Settings
+MT	*MTXTXDX041         &1 Item &2
+MT	*MTXTXDX042         &1 Menu Item &2
+MT	*MTXTXDX043         Font
+MT	*MTXTXDX044         Text Color
+MT	*MTXTXDX045         Corners
+MT	*MTXTXDX046         Transition
+MT	*MTXTXDX047         Apply
+MT	*MTXTXDX048         Red
+MT	*MTXTXDX049         Green
+MT	*MTXTXDX050         Blue
+MT	*MTXTXDX051         Black
+MT	*MTXTXDX052         Yellow
+MT	*MTXTXDX053         Blinds
+MT	*MTXTXDX054         Circle Reveal
+MT	*MTXTXDX055         Circle Stretch
+MT	*MTXTXDX056         Fade
+MT	*MTXTXDX057         Flip
+MT	*MTXTXDX058         Linear Fade
+MT	*MTXTXDX059         Tree Items On Demand
+MT	*MTXTXDX060         Radial Blur
+MT	*MTXTXDX061         Radial Wiggle
+MT	*MTXTXDX062         Roll Down
+MT	*MTXTXDX063         Roll Up
+MT	*MTXTXDX064         Rotate Crumble
+MT	*MTXTXDX065         Shrink
+MT	*MTXTXDX066         Wave
+MT	*MTXTXDX067         Dynamic Styles
+MT	*MTXTXDX068         Adding, changing and removing styles at runtime
+MT	*MTXTXDX069         Bold
+MT	*MTXTXDX070         Borders
+MT	*MTXTXDX071         Underline
+MT	*MTXTXDX072         Text Color
+MT	*MTXTXDX073         Font
+MT	*MTXTXDX074         Font Size
+MT	*MTXTXDX075         Background
+MT	*MTXTXDX076         Routed Events
+MT	*MTXTXDX077         Events firing on the origin and following the parent chain
+MT	*MTXTXDX078         Stop routing events
+MT	*MTXTXDX079         Click event detected on &1
+MT	*MTXTXDX080         User clicked on &1
+MT	*MTXTXDX081         High Volumes
+MT	*MTXTXDX082         Tile control with many tiles
+MT	*MTXTXDX083         Start
+MT	*MTXTXDX084         Pause
+MT	*MTXTXDX085         Stop
+MT	*MTXTXDX086         Taskbar Integration
+MT	*MTXTXDX087         Use the Windows taskbar to show progress and application state
+MT	*MTXTXDX088         Waiting
+MT	*MTXTXDX089         Application is waiting for an external source to provide input
+MT	*MTXTXDX090         Taskbar shows indeterminate state
+MT	*MTXTXDX091         Error
+MT	*MTXTXDX092         This text will become more visible as the brush opacity decreases
+MT	*MTXTXDX093         Adding extra items on reaching the last one
+MT	*MTXTXDX094         UDC On Demand
+MT	*MTXTXDX095         Loading User Designed Control items on demand
+MT	*MTXTXDX096         Scroll to the end to add more items
+MT	*MTXTXDX097         Using Touch Gestures
+MT	*MTXTXDX098         Rotate, move and scale using touch enabled devices
+PL	ENG
+PL	FRA
+PL	JPN
+PO	Deploy to Development System                                DEVSYS
+PT	VERSION
+TM	XDEVELOP
+TP	W32
+W1	ENG
+W2	LANSA:XHTML
